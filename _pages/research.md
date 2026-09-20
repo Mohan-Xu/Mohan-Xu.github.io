@@ -7,11 +7,13 @@ author_profile: true
 
 ## Working papers
 
-### *From Talk to Walk: Fiscal Communication and Asset Prices in China*
+### *[From Talk to Walk: Fiscal Communication and Asset Prices in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7121545)*
 
 <span class="paper-badge">Job market paper</span>
 
 <p class="paper-authors"><strong>Mohan Xu</strong>, Yixin Zhang, Runheng Li, and Yao Tang · 2026</p>
+
+[SSRN ↗](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7121545)
 
 <p class="paper-summary">We develop a measure of fiscal policy stance from official Chinese communications using an independently annotated knowledge base and large language models. We study how fiscal expansion affects asset prices and the macroeconomy.</p>
 
@@ -33,9 +35,11 @@ A framework for generating task-adapted semantic partitions of policy text and u
 
 A survey and information experiment examining how business executives interpret inflation data and form beliefs about growth.
 
-### *What Explains the Greening of China's Energy Outward Direct Investment? A Host-Country Policy Perspective*
+### *[What Explains the Greening of China's Energy Outward Direct Investment? A Host-Country Policy Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202232)*
 
 <p class="paper-authors"><strong>Mohan Xu</strong> and Yao Tang · 2026</p>
+
+[SSRN (earlier version) ↗](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202232)
 
 An analysis of renewable energy investment in China's outward direct investment and the roles of host-country policies and financial conditions.
 

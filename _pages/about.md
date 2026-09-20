@@ -20,9 +20,9 @@ Macroeconomics · Monetary economics · Policy communication · Economic expecta
 
 ## Selected research
 
-### *From Talk to Walk: Fiscal Communication and Asset Prices in China*
+### *[From Talk to Walk: Fiscal Communication and Asset Prices in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7121545)*
 
-<span class="paper-badge">Job market paper</span> · 2026  
+<span class="paper-badge">Job market paper</span> · 2026 · [SSRN ↗](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7121545)<br>
 Measures fiscal stance in official Chinese communications and examines its financial and real effects.
 
 ### *Economic Disagreement Across U.S. and Chinese Large Language Models: Evidence from Equity Markets*

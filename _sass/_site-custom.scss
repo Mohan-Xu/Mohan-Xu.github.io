@@ -20,6 +20,12 @@
   font-weight: 700;
 }
 
+.page__content h3 a {
+  color: inherit;
+  border-bottom: 1px solid currentColor;
+  text-decoration: none;
+}
+
 .page__content a {
   text-underline-offset: 0.17em;
 }
